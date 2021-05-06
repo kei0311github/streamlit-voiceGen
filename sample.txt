@@ -1,0 +1,1 @@
+Cloud Speech-To-Text用のサンプル文になります。
